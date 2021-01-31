@@ -6,5 +6,5 @@ A web-based version of weebanalyser, as detailed as it can be.
 There's a lot to do !
 - Alpha:
   - [ ] Build Prototype
-  - [ ] Use JikanJS and Kitsu's API
+  - [ ] Configurate datasets using [MalScraper](https://github.com/Kylart/MalScraper)
   - [ ] Build percentage algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)
