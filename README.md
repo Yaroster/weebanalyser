@@ -4,7 +4,7 @@ A web-based version of weebanalyser, as detailed as it can be.
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 # To do:
 There's a lot to do !
-- [ ] Alpha:
+- Alpha:
   - [ ] Build Prototype
   - [ ] Use JikanJS and Kitsu's API (This will be absolute hell to code)
   - [ ] Build percentage algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)
