@@ -27,7 +27,7 @@ There's a lot to do !
 | 500- | Conaisseur |
 | 1000- | Underground | 
 
-### Based on general 
+### Based on the total of media consumed:
 
 | Amount of media consumed (completed) | Weeb Type |
 | --- | --- |
