@@ -7,4 +7,4 @@ There's a lot to do !
 - Alpha:
   - [ ] Build Prototype
   - [ ] Configurate datasets using [MalScraper](https://github.com/Kylart/MalScraper)
-  - [ ] Build algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow) (via the UARC and by complexity)
+  - [ ] Build algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)<br>(via the UARC and by complexity)
