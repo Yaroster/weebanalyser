@@ -16,16 +16,6 @@ There's a lot to do !
 | 30-45 | Delaying |
 | 45+ | Procrastinating |
 
-| Amount of media consumed (completed) | Weeb Type |
-| --- | --- |
-| 1-50 | Casual |
-| 50-75 | Amateur |
-| 75-125 | Intermediate |
-| 125-199 | Confirmed |
-| 200-300 | Advanced |
-| 300-499 | Otaku |
-| 500+ | Hikikomori |
-
 | Popularity of media consumed (rank) | Weeb Type |
 | --- | --- |
 | 100+ | Classic |
@@ -33,3 +23,12 @@ There's a lot to do !
 | 500- | Conaisseur |
 | 1000- | Underground | 
 
+| Amount of media consumed (completed) | Weeb Type |
+| --- | --- |
+| 1-50 | Casual Weeb |
+| 50-75 | Anime Fan |
+| 75-125 | Intermediate Weeb |
+| 125-199 | Weeb |
+| 200-300 | Advanced Weeb |
+| 300-499 | Otaku |
+| 500+ | Hikikomori |
