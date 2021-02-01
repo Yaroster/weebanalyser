@@ -16,7 +16,7 @@ There's a lot to do !
 | 500- | Very Underground |
 | 1000- | Extremely Underground | 
 
-| Amount of media consumed (total) | Weeb Type |
+| Amount of media consumed (competed) | Weeb Type |
 | --- | --- |
 | 1-50 | Casual |
 | 50-75 | Amateur |
@@ -26,3 +26,12 @@ There's a lot to do !
 | 300-499 | Otaku |
 | 500+ | Hikikomori |
 
+| Amount of media dropped | Weeb Type |
+| --- | --- |
+| 1-15 | N/A |
+| 15-20 | Lazy |
+| 20-50 | Procrastinating |
+| 125-199 | Confirmed |
+| 200-300 | Advanced |
+| 300-499 | Otaku |
+| 500+ | Hikikomori |
