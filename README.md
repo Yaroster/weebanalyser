@@ -25,10 +25,8 @@ There's a lot to do !
 
 | Amount of media consumed (completed) | Weeb Type |
 | --- | --- |
-| 1-50 | Casual Weeb |
-| 50-75 | Anime Fan |
-| 75-125 | Intermediate Weeb |
-| 125-199 | Weeb |
-| 200-300 | Advanced Weeb |
-| 300-499 | Otaku |
+| 1-50 | Casual Ronin |
+| 50-75 | Anime Enjoyer |
+| 75-199 | Weeb |
+| 200-499 | Otaku |
 | 500+ | Hikikomori |
