@@ -26,7 +26,7 @@ There's a lot to do !
 | Amount of media consumed (completed) | Weeb Type |
 | --- | --- |
 | 1-50 | Ronin |
-| 50-75 | Enjoyer |
+| 50-75 | Anime Enjoyer |
 | 75-199 | Weeb |
 | 200-499 | Otaku |
 | 500+ | Hikikomori |
