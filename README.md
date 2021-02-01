@@ -8,3 +8,21 @@ There's a lot to do !
   - [ ] Build Prototype
   - [ ] Configure datasets using [MalScraper](https://github.com/Kylart/MalScraper) (type of weeb, percentage, most watched genre and anime/manga) 
   - [ ] Build algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)<br>(via the UARC and by complexity)
+
+| Popularity of media consumed (rank) | Weeb Type |
+| --- | --- |
+| 100+ | Classic |
+| 100- | Underground |
+| 500- | Very Underground |
+| 1000- | Extremely Underground | 
+
+| Amount of media consumed (total) | Weeb Type |
+| --- | --- |
+| 1-50 | Casual |
+| 50-75 | Amateur |
+| 75-125 | Intermediate |
+| 125-199 | Confirmed |
+| 200-300 | Advanced |
+| 300-499 | Otaku |
+| 500+ | Hikikomori |
+
