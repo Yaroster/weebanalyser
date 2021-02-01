@@ -12,9 +12,9 @@ There's a lot to do !
 | Popularity of media consumed (rank) | Weeb Type |
 | --- | --- |
 | 100+ | Classic |
-| 100- | Underground |
-| 500- | Very Underground |
-| 1000- | Extremely Underground | 
+| 100- | Curious |
+| 500- | Conaisseur |
+| 1000- | Underground | 
 
 | Amount of media dropped | Weeb Type |
 | --- | --- |
