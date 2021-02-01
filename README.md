@@ -9,6 +9,9 @@ There's a lot to do !
   - [ ] Configure datasets using [MalScraper](https://github.com/Kylart/MalScraper) (type of weeb, percentage, most watched genre and anime/manga) 
   - [ ] Build algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)<br>(via the UARC and by complexity)
 
+
+### Based on the majority of media consumed:
+
 | Amount of media unfinished (dropped) | Weeb Type |
 | --- | --- |
 | 1-15 | N/A |
@@ -23,6 +26,8 @@ There's a lot to do !
 | 100- | Curious |
 | 500- | Conaisseur |
 | 1000- | Underground | 
+
+### Based on general 
 
 | Amount of media consumed (completed) | Weeb Type |
 | --- | --- |
