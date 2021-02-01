@@ -14,11 +14,11 @@ There's a lot to do !
 
 | Amount of media unfinished (dropped) | Weeb Type |
 | --- | --- |
-| 1-15 | N/A |
-| 15-30 | Lazy |
-| 30-45 | Delaying |
-| 45-100 | Procrastinating |
-| 100+ | Abandoning |
+| 1-15% | N/A |
+| 15%-30% | Lazy |
+| 30%-45% | Delaying |
+| 45%-65% | Procrastinating |
+| 65%+ | Abandoning |
 
 | Popularity of media consumed (rank) | Weeb Type |
 | --- | --- |
