@@ -29,9 +29,9 @@ There's a lot to do !
 | Amount of media dropped | Weeb Type |
 | --- | --- |
 | 1-15 | N/A |
-| 15-20 | Lazy |
-| 20-50 | Procrastinating |
-| 125-199 | Confirmed |
-| 200-300 | Advanced |
+| 15-20 | Lazy Weeb |
+| 20-50 | Procrastinating Weeb |
+| 125-199 | Confirmed Weeb |
+| 200-300 | Advanced Weeb |
 | 300-499 | Otaku |
 | 500+ | Hikikomori |
