@@ -23,8 +23,8 @@ There's a lot to do !
 | Popularity of media consumed (rank) | Weeb Type |
 | --- | --- |
 | 100+ | Classic |
-| 100- | Curious |
-| 500- | Conaisseur |
+| 100-500 | Curious |
+| 500-1000 | Conaisseur |
 | 1000- | Underground | 
 
 ### Based on the total of media consumed:
