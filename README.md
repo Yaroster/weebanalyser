@@ -6,5 +6,5 @@ A web-based version of weebanalyser, as detailed as it can be.
 There's a lot to do !
 - Alpha:
   - [ ] Build Prototype
-  - [ ] Configurate datasets using [MalScraper](https://github.com/Kylart/MalScraper)
+  - [ ] Configure datasets using [MalScraper](https://github.com/Kylart/MalScraper)
   - [ ] Build algorythm (I will use a static ruleset, though in the future I would love to use Tensorflow)<br>(via the UARC and by complexity)
